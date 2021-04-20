@@ -1,11 +1,11 @@
 # Site settings
-title: Deep Learning for Simulation (simDL)
-description: 'ICLR 2021 Workshop'
-url: 'grlplus.github.io'
+title: Jiaqing Xie
+description: 'UG3 student at University of Edinburgh'
+url: 'jiaqing-xie.github.io'
 baseurl: '' 
 
 author:
-  name: 'Rex Ying, Tailin Wu'
+  name: 'Jiaqing'
 
 defaults:
   -

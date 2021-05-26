@@ -20,7 +20,7 @@ I'm looking forward to applying for the phd research program next year. My dream
 Recent News:
 
 
-04.2021 Our paper **VAE** on anti-cancer drug response prediction is accepted at *2021 AI4PH workshop*.
+04.2021 Our paper **VAE** on anti-cancer drug response prediction is accepted at *2021 ICLR AI4PH workshop*.
 
 04.2021 Writing the paper on Exploring Graph Features By GNN which will be submiited to *KDD DLG'21*.
 

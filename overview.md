@@ -21,9 +21,9 @@ Recent News:
 
 06.21 I will begin the summer research after super submission.
 
-06.2021 A new paper *Fea2Fea: Exploring Graph Feature Correlations via Graph Neural Networks* which will be submiited to *ECML KDD GEM workshop*.
+06.2021 A new paper with [Zhitao(Rex) Ying](https://cs.stanford.edu/people/rexy/) *Fea2Fea: Exploring Graph Feature Correlations via Graph Neural Networks* which will be submitted to *ECML KDD GEM workshop*.
 
-04.2021 Our paper *VAE on anti-cancer drug response prediction* is accepted at *2021 ICLR AI4PH workshop*.
+04.2021 First co-authored **Variational Autoencoder for Anti-Cancer Drug Response Prediction** is accepted at *2021 ICLR AI4PH workshop*.
 
 
 

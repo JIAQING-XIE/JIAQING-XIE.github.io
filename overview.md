@@ -19,9 +19,12 @@ I'm looking forward to applying for the phd research program next year. My dream
 
 Recent News:
 
+06.21 I will begin the summer research after super submission.
 
-04.2021 Our paper **VAE** on anti-cancer drug response prediction is accepted at *2021 ICLR AI4PH workshop*.
+06.2021 A new paper *Fea2Fea: Exploring Graph Feature Correlations via Graph Neural Networks* which will be submiited to *ECML KDD GEM workshop*.
 
-04.2021 Writing the paper on Exploring Graph Features By GNN which will be submiited to *KDD DLG'21*.
+04.2021 Our paper *VAE on anti-cancer drug response prediction* is accepted at *2021 ICLR AI4PH workshop*.
+
+
 
 04.2021 Happy to hear from the school of informatics that my final year research project is based on variational inference and Pyro. My supervisor is Siddarth N. and co-supervised by Tuan anh Le and Eli Bingham from MIT and Broad Institute. 
